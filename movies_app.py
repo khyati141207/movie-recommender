@@ -13,8 +13,7 @@ df.rename(columns={
 
 # Website title
 st.title("🎬 Movie Recommender")
-st.write("Tell me what you're in the mood for and I'll suggest something cool!")
-st.write("PS: Website had updated data till July 2025")
+st.write("Tell me what your mood/preference and I'll suggest something!" + "\n"+ "PS: Website had updated data till July 2025")
 
 # Input boxes
 user_input1 = st.text_input("keyword 1", "")
@@ -56,6 +55,7 @@ if not matches.empty:
             f"*Description:* _{row['description']}_  \n"
             f"*Rating:* {row['rating']}  \n"
             f"*Available on:* {row['available on:']}  \n"
+            f"*Language:* {row['language']}   \n"
             "---"
         )
 else:
