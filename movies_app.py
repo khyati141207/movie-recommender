@@ -14,6 +14,7 @@ df.rename(columns={
 # Website title
 st.title("🎬 Movie Recommender")
 st.write("Tell me what you're in the mood for and I'll suggest something cool!")
+st.write("PS: Website had updated data till July 2025")
 
 # Input boxes
 user_input1 = st.text_input("keyword 1", "")
