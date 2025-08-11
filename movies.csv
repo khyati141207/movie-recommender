@@ -1,230 +1,226 @@
-title, genre, description, rating, available on:
-"Whiplash","drama, music","obsessive mentor, jazz drumming, pressure","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Mad Max: Fury Road","action, dystopian","desert chase, survival, rebellion","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"The Prestige","mystery, drama","magician rivalry, illusion, obsession","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Rang De Basanti","drama, patriotic","youth activism, Indian history, rebellion","⭐⭐⭐⭐⭐","Netflix"
-"Uri: The Surgical Strike","action, war","Indian army, retaliation, patriotism","⭐⭐⭐⭐","Zee5"
-"Her","sci-fi, romance","AI romance, loneliness, futuristic society","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Coco","animation, fantasy","music, family, afterlife","⭐⭐⭐⭐⭐","Disney+ Hotstar"
-"Wake Up Sid","drama, coming-of-age","personal growth, career, Mumbai life","⭐⭐⭐⭐","Netflix"
-"Raazi","thriller, espionage","Indian spy, Pakistan, undercover mission","⭐⭐⭐⭐","Amazon Prime Video"
-"The Grand Budapest Hotel","comedy, crime","concierge, heist, quirky hotel drama","⭐⭐⭐⭐⭐","Disney+ Hotstar"
-"October","drama, romance","slow-burn love, hospital care, selflessness","⭐⭐⭐⭐","Amazon Prime Video"
-"The Theory of Everything","biography, drama","Stephen Hawking, love, ALS, physics","⭐⭐⭐⭐","Amazon Prime Video"
-"Ford v Ferrari","sports, drama","race engineering, rivalry, Le Mans","⭐⭐⭐⭐","Disney+ Hotstar"
-"Swades","drama, rural development","NASA scientist returns to village, self-reliance","⭐⭐⭐⭐⭐","Netflix"
-"Tamasha","romance, drama","finding identity, dual lives, performance","⭐⭐⭐⭐","Netflix"
-"Into the Wild","adventure, biography","true story, wilderness, freedom","⭐⭐⭐⭐","Amazon Prime Video"
-"Parched","drama, feminist","rural women, patriarchy, rebellion","⭐⭐⭐⭐","Amazon Prime Video"
-"Room","drama, thriller","captivity, mother-son bond, escape","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"The Truman Show","drama, sci-fi","man unknowingly living in a reality show","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"The Pianist","war, biography","Holocaust survivor, music, WWII","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Kapoor & Sons","family, drama","dysfunction, secrets, reunion","⭐⭐⭐⭐","Amazon Prime Video"
-"Nightcrawler","thriller, crime","media ethics, crime journalism, ambition","⭐⭐⭐⭐","Amazon Prime Video"
-"Lion","biography, drama","lost Indian boy, adoption, search for home","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Drishyam","thriller, crime","cover-up, family protection, suspense","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Barbarian","horror, thriller","Airbnb gone wrong, unexpected twist","⭐⭐⭐⭐","Disney+ Hotstar"
-"The Lunchbox","romance, drama","dabbawala, handwritten letters, unexpected bond","⭐⭐⭐⭐⭐","Netflix"
-"Edge of Tomorrow","sci-fi, action","time loop, alien invasion, redemption arc","⭐⭐⭐⭐","Amazon Prime Video"
-"Super 30","biography, drama","education, math genius, underprivileged students","⭐⭐⭐⭐","Disney+ Hotstar"
-"Gully Boy","drama, music","street rap, Mumbai, self-expression","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Gone Girl","thriller, psychological","missing wife, twisted marriage, manipulation","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Masaan","drama, social issues","Varanasi, grief, caste and redemption","⭐⭐⭐⭐","Netflix"
-"Piku","comedy, drama","father-daughter bond, constipation, emotional journey","⭐⭐⭐⭐","SonyLIV"
-"Fight Club","thriller, psychological","split personality, underground violence","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Tumbbad","horror, fantasy","Indian mythology, greed, cursed treasure","⭐⭐⭐⭐","Amazon Prime Video"
-"Dead Poets Society","drama, education","poetry, rebellion, seize the day","⭐⭐⭐⭐⭐","Disney+ Hotstar"
-"Shershaah","war, biography","Kargil hero, Indian Army, patriotism","⭐⭐⭐⭐","Amazon Prime Video"
-"Inside Out","animation, emotional","introversion, childhood emotions, psychology","⭐⭐⭐⭐⭐","Disney+ Hotstar"
-"12 Angry Men","drama, courtroom","jury, justice, one-man resistance","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Pink","drama, courtroom","women's consent, self-defense, legal fight","⭐⭐⭐⭐⭐","Netflix"
-"Requiem for a Dream","drama, psychological","addiction, downfall, hallucinations","⭐⭐⭐⭐","Amazon Prime Video"
-"The White Tiger","drama, social ladder","India’s class divide, corruption","⭐⭐⭐⭐","Netflix"
-"Mimi","comedy, drama","surrogacy, motherhood, Rajasthan","⭐⭐⭐⭐","Netflix"
-"Haider","drama, political","Kashmir, revenge, Hamlet adaptation","⭐⭐⭐⭐⭐","Netflix"
-"Airlift","thriller, drama","Kuwait evacuation, Indian citizens, real events","⭐⭐⭐⭐","Amazon Prime Video"
-"Bajrangi Bhaijaan","drama, family","lost Pakistani girl, Indian kindness","⭐⭐⭐⭐⭐","Disney+ Hotstar"
-"Black","drama, biography","blind-deaf girl, teacher, inspiration","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"The Great Gatsby","drama, romance","1920s, obsession, wealth and illusion","⭐⭐⭐⭐","Amazon Prime Video"
-"Spotlight","biography, journalism","church scandal, investigative reporting","⭐⭐⭐⭐⭐","Netflix"
-"Parasite","thriller, drama","Korean, class divide, infiltration, social commentary","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Amélie","romance, comedy","French, whimsical, kindness, Paris life","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Pan's Labyrinth","fantasy, war","Spanish, dark fairy tale, fascist Spain","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Cinema Paradiso","drama, nostalgia","Italian, childhood, love for cinema","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Rashomon","drama, mystery","Japanese, conflicting testimonies, truth vs perception","⭐⭐⭐⭐⭐","MUBI"
-"Capernaum","drama, social realism","Arabic, child refugee, survival, Beirut","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"The Lives of Others","thriller, drama","German, East Berlin surveillance, humanity","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Burning","drama, psychological","Korean, obsession, ambiguity, vanishing","⭐⭐⭐⭐","Netflix"
-"A Separation","drama, family","Iranian, divorce, aging parent, moral dilemmas","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Train to Busan","action, horror","Korean, zombie apocalypse, father-daughter bond","⭐⭐⭐⭐","Netflix"
-"The Handmaiden","thriller, romance","Korean, psychological seduction, twist","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"La Haine","drama, crime","French, youth, police tension, urban chaos","⭐⭐⭐⭐⭐","MUBI"
-"Hero","action, historical","Chinese, martial arts, assassination, emperor","⭐⭐⭐⭐","Amazon Prime Video"
-"Spirited Away","animation, fantasy","Japanese, spirit world, lost identity","⭐⭐⭐⭐⭐","Netflix"
-"Run Lola Run","thriller, experimental","German, multiple timelines, urgency","⭐⭐⭐⭐","Amazon Prime Video"
-"Oldboy","thriller, revenge","Korean, imprisonment, shocking twist","⭐⭐⭐⭐⭐","Netflix"
-"The Intouchables","comedy, drama","French, unlikely friendship, disability","⭐⭐⭐⭐⭐","Netflix"
-"Roma","drama, biography","Spanish/Mexican, maid’s life, 1970s Mexico City","⭐⭐⭐⭐⭐","Netflix"
-"Bicycle Thieves","drama, neorealism","Italian, father-son, poverty, survival","⭐⭐⭐⭐⭐","MUBI"
-"Minari","drama, family","Korean-American, immigrant dreams, farming struggles","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Poetry","drama, slow-burn","Korean, elderly woman, poetry, crime","⭐⭐⭐⭐","MUBI"
-"Portrait of a Lady on Fire","romance, historical","French, forbidden love, painting","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Asuran","action, drama","Tamil, caste violence, family revenge","⭐⭐⭐⭐","Amazon Prime Video"
-"Jallikattu","action, experimental","Malayalam, wild buffalo chaos, human instinct","⭐⭐⭐⭐","Amazon Prime Video"
-"Charulata","drama, classic","Bengali, loneliness, intellectual longing, Tagore","⭐⭐⭐⭐⭐","Hoichoi"
-"Incendies","drama, mystery","French-Arabic, civil war, family secrets, emotional puzzle","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Shoplifters","drama, family","Japanese, chosen family, poverty, bonding","⭐⭐⭐⭐⭐","Netflix"
-"Memories of Murder","thriller, crime","Korean, serial killer case, investigation, futility","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"The Hunt","drama, psychological","Danish, false accusation, social collapse","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Life Is Beautiful","drama, comedy","Italian, Holocaust, father’s love, survival","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"I’m No Longer Here","drama, music","Spanish-Mexican, youth, subculture, migration","⭐⭐⭐⭐","Netflix"
-"The Invisible Guest","thriller, mystery","Spanish, locked-room murder, lawyer, twist ending","⭐⭐⭐⭐","Netflix"
-"The Wailing","horror, supernatural","Korean, possession, folklore, paranoia","⭐⭐⭐⭐","Amazon Prime Video"
-"The Chaser","thriller, crime","Korean, ex-cop vs killer, gripping cat-and-mouse","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Perfect Blue","thriller, psychological","Japanese, pop idol, reality distortion","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Tokyo Story","drama, family","Japanese, generational gap, aging parents","⭐⭐⭐⭐⭐","MUBI"
-"All About My Mother","drama, LGBTQ+","Spanish, motherhood, identity, loss","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Nobody Knows","drama, survival","Japanese, abandoned siblings, urban neglect","⭐⭐⭐⭐⭐","MUBI"
-"Bal (Honey)","drama, childhood","Turkish, quiet village, nature, introverted child","⭐⭐⭐⭐","MUBI"
-"Leviathan","drama, political","Russian, corruption, church, existential pain","⭐⭐⭐⭐","Amazon Prime Video"
-"The Celebration (Festen)","drama, family","Danish, dark secrets, party gone wrong","⭐⭐⭐⭐⭐","MUBI"
-"Son of Saul","war, horror","Hungarian, Auschwitz, moral dilemma, single-take intensity","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Wadjda","drama, feminism","Arabic (Saudi), girl's dream to own a bicycle","⭐⭐⭐⭐","Netflix"
-"Toni Erdmann","comedy, drama","German, awkward father-daughter, absurd bonding","⭐⭐⭐⭐","Amazon Prime Video"
-"Still Walking","drama, family","Japanese, grief, annual rituals, subtle emotions","⭐⭐⭐⭐","MUBI"
-"Cold War","romance, drama","Polish, musicians, passion across decades and borders","⭐⭐⭐⭐","Amazon Prime Video"
-"Wild Tales","dark comedy, anthology","Spanish-Argentinian, revenge, chaos, social rage","⭐⭐⭐⭐","Amazon Prime Video"
-"Pather Panchali","drama, classic","Bengali, rural India, child’s eye, Satyajit Ray","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Ilo Ilo","drama, family","Chinese-Singaporean, maid-child bond, 1997 recession","⭐⭐⭐⭐","MUBI"
-"I Want to Eat Your Pancreas","anime, romance, sad","terminal illness, unlikely friendship, emotional goodbye","⭐⭐⭐⭐⭐","Netflix"
-"Silenced","drama, true story, tragic","abuse case in Korean school, injustice, hard-hitting","⭐⭐⭐⭐⭐","Netflix"
-"Ayka","drama, immigrant, cry","single immigrant mother abandons newborn, painful realism","⭐⭐⭐⭐","MUBI"
-"A Sun","drama, family, grief","Taiwanese family deals with loss, shame, and regret","⭐⭐⭐⭐⭐","Netflix"
-"A Letter to Momo","anime, grief, emotional","Japanese girl connects with spirits after father’s death","⭐⭐⭐⭐","Netflix"
-"Beautiful Boy","drama, addiction, sad","father tries to help son through drug relapse cycles","⭐⭐⭐⭐","Amazon Prime Video"
-"Don't Leave","romance, Turkish, emotional","young man mysteriously breaks up with girlfriend, tragic reveal","⭐⭐⭐⭐","Netflix"
-"Blue","drama, French, sad","woman loses family, goes numb, rebuilds life through music","⭐⭐⭐⭐⭐","MUBI"
-"Radiator","drama, family, grief","son returns to care for mentally ill parents, slow emotional burn","⭐⭐⭐","Amazon Prime Video"
-"Shiniuma no Oshiego","Japanese, coming-of-age, sad","orphan boy finds his way through street boxing and struggle","⭐⭐⭐","Japan Foundation Online"
-"Tangshan Earthquake","disaster, family, tragedy","mother forced to choose one child after earthquake, long-term guilt","⭐⭐⭐⭐","YouTube"
-"Whale Rider","drama, Maori, emotional","young girl fights tradition to become tribal leader, powerful and sad","⭐⭐⭐⭐","Amazon Prime Video"
-"Song of the Sea","anime, fantasy, emotional","Irish siblings grieve their mother through magical folklore","⭐⭐⭐⭐","Netflix"
-"A White White Day","drama, Icelandic, slow-burn","man grieves wife, suspects she cheated, icy melancholy","⭐⭐⭐⭐","MUBI"
-"Yeh Ballet","Indian, drama, dreams, sad","slum boys find ballet, face family rejection and systemic hardship","⭐⭐⭐⭐","Netflix"
-"Goodbye","drama, Indian, grief","family deals with the loss of their mother, emotional clashes","⭐⭐⭐","Netflix"
-"Sonita","documentary, feminist, cry","Afghan girl uses rap to escape forced marriage, tearjerker","⭐⭐⭐⭐","YouTube"
-"True Mothers","drama, adoption, secrets","Japanese couple’s adopted child’s biological mother resurfaces","⭐⭐⭐⭐","Netflix"
-"True North","anime, political, tragic","Korean animation set in a North Korean prison camp, gut-wrenching","⭐⭐⭐⭐","Netflix"
-"Little Miss Period","drama, Japanese, sad-comedy","girl's emotional struggle embodied as a character, unique and touching","⭐⭐⭐","Netflix"
-"Death Note","anime, thriller, supernatural","brilliant student gets a deadly notebook, cat-and-mouse with detective","⭐⭐⭐⭐⭐","Netflix, Crunchyroll"
-"Attack on Titan","anime, action, dark fantasy","humanity fights Titans behind massive walls","⭐⭐⭐⭐⭐","Netflix, Crunchyroll"
-"Your Name","anime, romance, fantasy","body-swapping teens, fate, breathtaking visuals","⭐⭐⭐⭐⭐","Netflix"
-"One Punch Man","anime, comedy, action","hero bored of winning with one punch, satire of shounen","⭐⭐⭐⭐","Netflix, Crunchyroll"
-"Spirited Away","anime, fantasy, coming-of-age","girl trapped in spirit world, must escape","⭐⭐⭐⭐⭐","Netflix"
-"Vinland Saga","anime, historical, action","Viking revenge saga with emotional depth","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Jujutsu Kaisen","anime, action, supernatural","cursed spirits, sorcerers, intense battles","⭐⭐⭐⭐","Crunchyroll, Netflix"
-"Steins;Gate","anime, sci-fi, thriller","time travel, brainy experiments, butterfly effects","⭐⭐⭐⭐⭐","Crunchyroll"
-"Erased","anime, mystery, drama","man travels back to prevent a childhood tragedy","⭐⭐⭐⭐⭐","Netflix"
-"Mob Psycho 100","anime, supernatural, action","overpowered psychic with emotions, quirky and fun","⭐⭐⭐⭐⭐","Crunchyroll"
-"Naruto","anime, action, adventure","ninja boy aims to be village leader, emotional arcs","⭐⭐⭐⭐","Netflix"
-"Fullmetal Alchemist: Brotherhood","anime, fantasy, drama","brothers use alchemy to restore their bodies, deep themes","⭐⭐⭐⭐⭐","Netflix, Crunchyroll"
-"Tokyo Ghoul","anime, horror, psychological","student turns half-ghoul, struggles with identity","⭐⭐⭐⭐","Netflix"
-"Parasyte: The Maxim","anime, sci-fi, body horror","alien parasite coexists in human hand, fights for survival","⭐⭐⭐⭐","Netflix"
-"Toradora!","anime, romantic comedy, slice of life","tsundere girl + misunderstood boy, sweet development","⭐⭐⭐⭐⭐","Crunchyroll"
-"Demon Slayer","anime, action, supernatural","siblings fight demons, stunning visuals","⭐⭐⭐⭐","Netflix, Crunchyroll"
-"Code Geass","anime, mecha, strategy","exiled prince gets power to command, rebellion ensues","⭐⭐⭐⭐⭐","Netflix"
-"Made in Abyss","anime, adventure, dark fantasy","girl descends into mysterious pit, emotional and brutal","⭐⭐⭐⭐","Amazon Prime Video"
-"Clannad: After Story","anime, drama, romance","slice of life turns deeply emotional and philosophical","⭐⭐⭐⭐⭐","Crunchyroll"
-"Black Clover","anime, action, magic","orphan dreams of becoming wizard king, despite no powers","⭐⭐⭐","Crunchyroll, Netflix"
-"Akame ga Kill!","anime, action, tragedy","young warrior joins assassins to fight corruption, brutal deaths","⭐⭐⭐","Netflix"
-"Noragami","anime, supernatural, comedy","minor god does odd jobs for 5 yen, gods vs phantoms","⭐⭐⭐⭐","Netflix"
-"Zankyou no Terror","anime, thriller, mystery","two teen terrorists shake Tokyo to reveal a hidden truth","⭐⭐⭐⭐","Crunchyroll"
-"Samurai Champloo","anime, historical, hip-hop","samurais in Edo era with anachronistic style, cool journey","⭐⭐⭐⭐⭐","Netflix"
-"86","anime, war, sci-fi","mecha warfare, discrimination, intense emotional fallout","⭐⭐⭐⭐","Crunchyroll"
-"Beastars","anime, psychological, furry noir","predator-prey tension in anthropomorphic society","⭐⭐⭐⭐","Netflix"
-"Horimiya","anime, romance, slice of life","popular girl and quiet guy connect over secrets, wholesome","⭐⭐⭐⭐","Netflix"
-"Devilman Crybaby","anime, horror, tragedy","demons invade society, emotional destruction follows","⭐⭐⭐⭐","Netflix"
-"Bungou Stray Dogs","anime, supernatural, mystery","detectives with powers based on literary figures","⭐⭐⭐⭐","Crunchyroll"
-"The Promised Neverland (Season 1)","anime, thriller, escape","kids plan escape from a dark orphanage secret","⭐⭐⭐⭐⭐","Netflix"
-"Dr. Stone","anime, sci-fi, survival","teen scientist rebuilds civilization after apocalypse","⭐⭐⭐⭐","Crunchyroll"
-"Re:Zero","anime, fantasy, time loop","boy relives death over and over, high stakes, heartbreak","⭐⭐⭐⭐","Netflix"
-"Barakamon","anime, slice of life, comedy","calligrapher finds meaning in rural island life","⭐⭐⭐⭐⭐","Crunchyroll"
-"Hyouka","anime, mystery, slice of life","quiet student uncovers school mysteries, slow charm","⭐⭐⭐⭐","Crunchyroll"
-"Nana","anime, romance, music","two girls named Nana navigate love, pain, and dreams","⭐⭐⭐⭐⭐","Netflix"
-"Welcome to the NHK","anime, psychological, dark comedy","hikikomori suspects a conspiracy ruining his life","⭐⭐⭐⭐","Crunchyroll"
-"Bakuman","anime, drama, career","high school duo pursue dream of becoming top manga artists","⭐⭐⭐⭐","Netflix"
-"Orange","anime, romance, time travel","letter from future warns girl to save her classmate from tragedy","⭐⭐⭐⭐","Netflix"
-"To Your Eternity","anime, fantasy, existential","immortal entity learns life through pain and companionship","⭐⭐⭐⭐⭐","Crunchyroll"
-"Beasts of No Nation","war, drama","African child soldier’s descent into violence and loss","⭐⭐⭐⭐⭐","Netflix"
-"The Light Between Oceans","romance, drama","couple finds baby at sea, guilt and grief follow","⭐⭐⭐⭐","Amazon Prime Video"
-"Tuesdays with Morrie","drama, biography","student reconnects with dying professor, heartwarming and sad","⭐⭐⭐⭐","YouTube"
-"The Nightingale","drama, revenge","Tasmanian woman seeks justice after horrific loss","⭐⭐⭐⭐","Amazon Prime Video"
-"Nowhere in Africa","drama, war","German family flees to Kenya during WWII, bittersweet journey","⭐⭐⭐⭐⭐","MUBI"
-"Instructions Not Included","drama, comedy","Mexican single father raises daughter, shocking twist ending","⭐⭐⭐⭐","Amazon Prime Video"
-"Mug","drama, Polish","man receives face transplant after accident, struggles with identity","⭐⭐⭐","Netflix"
-"The Sea Inside","biography, Spanish","paralyzed man fights for right to die, deeply moving","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"The Sweet Hereafter","drama, tragedy","town deals with the aftermath of a school bus accident","⭐⭐⭐⭐","YouTube"
-"Departures","drama, Japanese","cellist becomes mortician, explores life, death, and dignity","⭐⭐⭐⭐⭐","Netflix"
-"The Flowers of War","war, drama","Chinese girls take refuge with courtesans during Nanjing Massacre","⭐⭐⭐⭐","Amazon Prime Video"
-"The Third Wife","drama, Vietnamese","14-year-old girl becomes third wife, silent rebellion builds","⭐⭐⭐⭐","MUBI"
-"Sun Children","drama, Iranian","kids in Tehran juggle school and hard labor, heartbreaking realism","⭐⭐⭐⭐","Netflix"
-"Jiro Dreams of Sushi","documentary, Japanese","master sushi chef, discipline and sacrifice, quiet melancholy","⭐⭐⭐⭐","Netflix"
-"All Is Lost","drama, survival","man lost at sea fights nature alone, wordless yet powerful","⭐⭐⭐⭐","Amazon Prime Video"
-"The Road","drama, post-apocalyptic","father and son journey through dying world, bleak and loving","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"A Moment to Remember","romance, Korean","young wife develops Alzheimer’s, heartbreaking love story","⭐⭐⭐⭐⭐","Netflix"
-"The Broken Circle Breakdown","romance, drama","Belgian couple’s love crumbles after child’s death","⭐⭐⭐⭐","Amazon Prime Video"
-"Bal (Honey)","drama, Turkish","introverted boy’s forest life shaken by father’s disappearance","⭐⭐⭐⭐","MUBI"
-"Las Acacias","drama, Argentine","quiet truck journey with a woman and baby, subtle emotional weight","⭐⭐⭐⭐","MUBI"
-"Tamasha","drama, romance, self-discovery","guy loses himself in societal expectations, rediscovers identity","⭐⭐⭐⭐⭐","Netflix"
-"Wake Up Sid","drama, coming-of-age","spoiled rich kid finds purpose through independence and love","⭐⭐⭐⭐","Netflix"
-"Rockstar","romance, music, angst","Delhi boy becomes rockstar, love and heartbreak shape him","⭐⭐⭐⭐","Netflix"
-"Dil Chahta Hai","drama, friendship, travel","three friends navigate love and adulthood, iconic Goa trip","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Dear Zindagi","drama, mental health, youth","cinematographer heals with help of therapist, emotional reset","⭐⭐⭐⭐","Netflix"
-"Queen","drama, comedy, solo travel","ditched bride travels solo in Europe, rediscovers herself","⭐⭐⭐⭐⭐","Netflix"
-"Baar Baar Dekho","romance, time travel","man sees his life unfold and learns to cherish love","⭐⭐⭐","Amazon Prime Video"
-"Kuch Kuch Hota Hai","romance, college, friendship","childhood friends, love triangle, classic college vibes","⭐⭐⭐⭐","Netflix"
-"Kapoor & Sons","drama, family, emotions","family reunion brings secrets, bonding, and catharsis","⭐⭐⭐⭐","Amazon Prime Video"
-"Jab We Met","romantic comedy, journey","free-spirited girl changes reserved man’s life during train trip","⭐⭐⭐⭐⭐","Netflix"
-"Karwaan","drama, road trip, bonding","misfit trio drives across South India with a corpse in tow","⭐⭐⭐⭐","Amazon Prime Video"
-"The Sky Is Pink","biography, family, emotional","family’s journey through love and loss of a daughter","⭐⭐⭐⭐","Netflix"
-"Highway","drama, romance, freedom","girl kidnapped, ends up discovering herself on the road","⭐⭐⭐⭐","Netflix"
-"Student of the Year","romance, college, competition","love triangle and friendship tested in glamorous college","⭐⭐⭐","Netflix"
-"Udaan","drama, youth, coming-of-age","boy rebels against abusive father to chase dreams","⭐⭐⭐⭐⭐","Netflix"
-"Jee Le Zaraa (upcoming)","drama, female road trip","Farhan Akhtar’s next — spiritual successor to ZNMD","⭐⭐⭐⭐⭐","TBA"
-"Midnight Runners","Korean, action, comedy","two goofy police cadets team up to solve a case, bromance energy","⭐⭐⭐⭐","Amazon Prime Video"
-"Our Times","Taiwanese, romance, nostalgia","shy schoolgirl’s crush leads to unexpected friendship and growth","⭐⭐⭐⭐","Netflix"
-"Anbe Sivam","Tamil, drama, road movie","two strangers journey across India and challenge each other's worldview","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Little Forest","Korean, slice of life, food","girl leaves city stress behind to cook and heal in countryside","⭐⭐⭐⭐","Netflix"
-"Seven Years in Tibet","English, biopic, adventure","Austrian man finds peace and purpose while in Tibet","⭐⭐⭐⭐","Amazon Prime Video"
-"Happy Together","Hong Kong, romance, travel","tumultuous couple travels to Argentina and finds personal clarity","⭐⭐⭐⭐","MUBI"
-"Ilo Ilo","Chinese-Singaporean, drama","maid-child bond in 1997 recession sparks emotional growth","⭐⭐⭐⭐","MUBI"
-"One Week","English (Canada), road movie, cancer","man with terminal illness motorcycles across Canada to find meaning","⭐⭐⭐⭐","YouTube"
-"Call Me by Your Name","Italian-English, romance, summer love","teen boy's romantic awakening in dreamy 1980s Italy","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Your Name Engraved Herein","Taiwanese, LGBTQ+, youth","schoolboys fall in love in post-martial law Taiwan","⭐⭐⭐⭐","Netflix"
-"Into the Wild","English, adventure, philosophy","man leaves society behind to live in wilderness, soul-searching","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"20th Century Girls","Korean, teen, friendship","heartfelt tale of youth, love, and best friends in the late '90s","⭐⭐⭐⭐","Netflix"
-"Mumbai Xpress","Tamil, road comedy","mistaken identities and chaos during a kidnapping gone wrong","⭐⭐⭐","YouTube"
-"Eat Pray Love","English, travel, soul-searching","woman travels across Italy, India, and Bali to rediscover herself","⭐⭐⭐","Netflix"
-"Us and Them","Chinese, romance, regret","two lovers reconnect on a train years after their relationship ended","⭐⭐⭐⭐","Netflix"
-"Barfi! (Bengali dubbed)","romance, humor, emotion","deaf-mute boy navigates love and loss with charm and heart","⭐⭐⭐⭐⭐","Netflix"
-"Maryan","Tamil, survival, romance","deep love story set against working-class backdrop and African landscapes","⭐⭐⭐⭐","Disney+ Hotstar"
-"Shaun of the Dead","comedy, horror, British","zombie outbreak tackled with dry humor and cricket bats","⭐⭐⭐⭐⭐","Amazon Prime Video"
-"Beetlejuice","comedy, fantasy, supernatural","eccentric ghost haunts new tenants, weirdly hilarious","⭐⭐⭐⭐","Amazon Prime Video"
-"The Cabin in the Woods","horror, meta, sci-fi","college kids trapped in orchestrated nightmare","⭐⭐⭐⭐","Amazon Prime Video"
-"Scary Movie (Series)","parody, horror, slapstick","spoofs on horror clichés, chaotic and silly","⭐⭐⭐","Netflix"
-"Tucker and Dale vs. Evil","comedy, horror, mistaken identity","two hillbillies mistaken for killers, gory laughs","⭐⭐⭐⭐","Amazon Prime Video"
-"Ghostbusters (1984 & 2016)","comedy, paranormal, classic","ghost-hunting squad busts spirits in New York","⭐⭐⭐⭐","Netflix"
-"Warm Bodies","romance, horror, comedy","zombie falls in love, gains humanity","⭐⭐⭐⭐","Amazon Prime Video"
-"Deadstream","horror, comedy, found footage","streamer’s haunted house vlog goes viral and deadly","⭐⭐⭐⭐","Shudder"
-"What We Do in the Shadows","comedy, horror, mockumentary","vampires as quirky roommates in New Zealand","⭐⭐⭐⭐⭐","Disney+ Hotstar"
-"Happy Death Day","horror, comedy, time-loop","college girl relives murder day over and over","⭐⭐⭐⭐","Amazon Prime Video"
-"Stree (Hindi)","horror, comedy, satire","feminist ghost haunts men, small-town chaos","⭐⭐⭐⭐","JioCinema, Netflix"
-"Bhoot Police (Hindi)","horror, comedy","fake ghostbusters encounter real spirits","⭐⭐⭐","Disney+ Hotstar"
-"Roohi (Hindi)","horror, comedy, absurd","woman possessed by a ghost who wants marriage","⭐⭐⭐","JioCinema"
-"Bhool Bhulaiyaa (1 & 2) (Hindi)","horror, psychological, comedy","mix of psychology and spirits with great timing","⭐⭐⭐⭐","Netflix"
-"Munafik 2 (Malay)","horror, supernatural, religious","Islamic horror with a strong moral message","⭐⭐⭐","Netflix"
-"Kanchana (Tamil)","horror, comedy, social message","ghost of a trans woman seeks justice through possession","⭐⭐⭐⭐","Sun NXT"
-"Muni (Tamil)","horror, comedy, revenge","humorous ghost possession with local flavor","⭐⭐⭐","YouTube"
-"Zombie Reddy (Telugu)","action, horror, comedy","COVID-zombie apocalypse meets Telugu politics","⭐⭐⭐","ZEE5"
-"Ghudchadi (upcoming)","rom-com, horror","wedding ghost chaos starring Sanjay Dutt","TBD","TBA"
-"Pretham (Malayalam)","horror, comedy, psychic","sarcastic psychic handles a spooky hostel case","⭐⭐⭐⭐","Sun NXT"
+title,genre,description,rating,available on,language, duration
+Whiplash,"drama, music","obsessive mentor, jazz drumming, pressure",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",106 minutes
+Mad Max: Fury Road,"action, dystopian","desert chase, survival, rebellion",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",120 minutes
+The Prestige,"mystery, drama","magician rivalry, illusion, obsession",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",130 minutes
+Rang De Basanti,"drama, patriotic","youth activism, Indian history, rebellion",⭐⭐⭐⭐⭐,Netflix," ""Hindi""",160 minutes
+Uri: The Surgical Strike,"action, war","Indian army, retaliation, patriotism",⭐⭐⭐⭐,Zee5," ""Hindi""",138 minutes
+Her,"sci-fi, romance","AI romance, loneliness, futuristic society",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",126 minutes
+Coco,"animation, fantasy","A young boy, Miguel, dreams of becoming a musician despite his family's ancestral ban on music. In pursuit of his passion, he finds himself in the Land of the Dead and unravels long-hidden family secrets.",⭐⭐⭐⭐⭐,Disney+ Hotstar," ""English""",105 minutes
+Raazi,"thriller, espionage","Indian spy, Pakistan, undercover mission",⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",140 minutes
+The Grand Budapest Hotel,"comedy, crime","concierge, heist, quirky hotel drama",⭐⭐⭐⭐⭐,Disney+ Hotstar," ""English""",110 miutes
+October,"drama, romance","slow-burn love, hospital care, selflessness",⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",115 minutes
+The Theory of Everything,"biography, drama","Stephen Hawking, love, ALS, physics",⭐⭐⭐⭐,Amazon Prime Video," ""English""",123 minutes
+Ford v Ferrari,"sports, drama","race engineering, rivalry, Le Mans",⭐⭐⭐⭐,Disney+ Hotstar," ""English""",152 minutes
+Swades,"drama, rural development","NASA scientist returns to village, self-reliance",⭐⭐⭐⭐⭐,Netflix," ""Hindi""",210 minutes
+Parched,"drama, feminist","rural women, patriarchy, rebellion",⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",121 minutes
+Room,"drama, thriller","captivity, mother-son bond, escape",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",118 minutes
+The Truman Show,"drama, sci-fi",man unknowingly living in a reality show,⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",103 minutes
+The Pianist,"war, biography","Holocaust survivor, music, WWII",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",150 minutes
+Nightcrawler,"thriller, crime","media ethics, crime journalism, ambition",⭐⭐⭐⭐,Amazon Prime Video," ""English""",117 minutes
+Lion,"biography, drama","lost Indian boy, adoption, search for home",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English",118 minutes
+Drishyam,"thriller, crime","cover-up, family protection, suspense",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",175 minutes
+Barbarian,"horror, thriller","Airbnb gone wrong, unexpected twist",⭐⭐⭐⭐,Disney+ Hotstar," ""English""",102 minutes
+The Lunchbox,"romance, drama","dabbawala, handwritten letters, unexpected bond",⭐⭐⭐⭐⭐,Netflix," ""Hindi""",104 minutes
+Edge of Tomorrow,"sci-fi, action","time loop, alien invasion, redemption arc",⭐⭐⭐⭐,Amazon Prime Video," ""English""",113 minutes
+Super 30,"biography, drama","education, math genius, underprivileged students",⭐⭐⭐⭐,Disney+ Hotstar," ""Hindi""",153 minutes
+Gully Boy,"drama, music","street rap, Mumbai, self-expression",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",157 minutes
+Gone Girl,"thriller, psychological","missing wife, twisted marriage, manipulation",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",149 minutes
+Masaan,"drama, social issues","Varanasi, grief, caste and redemption",⭐⭐⭐⭐,Netflix," ""Hindi""",111 minutes
+Piku,"comedy, drama","father-daughter bond, constipation, emotional journey",⭐⭐⭐⭐,SonyLIV," ""Hindi""",134 minutes
+Fight Club,"thriller, psychological","split personality, underground violence",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",139 minutes
+Tumbbad,"horror, fantasy","Indian mythology, greed, cursed treasure",⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",106 minutes
+Dead Poets Society,"drama, education","poetry, rebellion, seize the day",⭐⭐⭐⭐⭐,Disney+ Hotstar," ""English""",128 min
+Shershaah,"war, biography","Kargil hero, Indian Army, patriotism",⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",135 min
+Inside Out,"animation, emotional","introversion, childhood emotions, psychology",⭐⭐⭐⭐⭐,Disney+ Hotstar," ""English""",95 min
+12 Angry Men,"drama, courtroom","jury, justice, one-man resistance",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",96 min
+Pink,"drama, courtroom","women's consent, self-defense, legal fight",⭐⭐⭐⭐⭐,Netflix," ""Hindi""",136 min
+Requiem for a Dream,"drama, psychological","addiction, downfall, hallucinations",⭐⭐⭐⭐,Amazon Prime Video," ""English""",102 min
+The White Tiger,"drama, social ladder","India’s class divide, corruption",⭐⭐⭐⭐,Netflix," ""Hindi""",126 min
+Mimi,"comedy, drama","surrogacy, motherhood, Rajasthan",⭐⭐⭐⭐,Netflix," ""Hindi""",132 min
+Haider,"drama, political","Kashmir, revenge, Hamlet adaptation",⭐⭐⭐⭐⭐,Netflix," ""Hindi""",160 min
+Airlift,"thriller, drama","Kuwait evacuation, Indian citizens, real events",⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",178 min
+Bajrangi Bhaijaan,"drama, family","lost Pakistani girl, Indian kindness",⭐⭐⭐⭐⭐,Disney+ Hotstar," ""Hindi""",164 min
+Black,"drama, biography","blind-deaf girl, teacher, inspiration",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",186 min
+The Great Gatsby,"drama, romance","1920s, obsession, wealth and illusion",⭐⭐⭐⭐,Amazon Prime Video," ""English""",143 min
+Spotlight,"biography, journalism","church scandal, investigative reporting",⭐⭐⭐⭐⭐,Netflix," ""English""",129 min
+Parasite,"thriller, drama","Korean, class divide, infiltration, social commentary",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Korean""",132 min
+Amélie,"romance, comedy","French, whimsical, kindness, Paris life",⭐⭐⭐⭐⭐,Amazon Prime Video," ""French""",122 min
+Pan's Labyrinth,"fantasy, war","Spanish, dark fairy tale, fascist Spain",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Spanish""",118 min
+Cinema Paradiso,"drama, nostalgia","Italian, childhood, love for cinema",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Italian""",155 min
+Rashomon,"drama, mystery","Japanese, conflicting testimonies, truth vs perception",⭐⭐⭐⭐⭐,MUBI," ""Japanese""",88 min
+Capernaum,"drama, social realism","Arabic, child refugee, survival, Beirut",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English",126 min
+The Lives of Others,"thriller, drama","German, East Berlin surveillance, humanity",⭐⭐⭐⭐⭐,Amazon Prime Video," ""German""",137 min
+Burning,"drama, psychological","Korean, obsession, ambiguity, vanishing",⭐⭐⭐⭐,Netflix," ""Korean""",135 min
+A Separation,"drama, family","Iranian, divorce, aging parent, moral dilemmas",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Persian""",123 min
+Train to Busan,"action, horror","Korean, zombie apocalypse, father-daughter bond",⭐⭐⭐⭐,Netflix," ""Korean""",118 min
+The Handmaiden,"thriller, romance","Korean, psychological seduction, twist",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Korean""",145 min
+La Haine,"drama, crime","French, youth, police tension, urban chaos",⭐⭐⭐⭐⭐,MUBI," ""French""",98 min
+Hero,"action, historical","Chinese, martial arts, assassination, emperor",⭐⭐⭐⭐,Amazon Prime Video," ""Mandarin""",99 min
+Run Lola Run,"thriller, experimental","German, multiple timelines, urgency",⭐⭐⭐⭐,Amazon Prime Video," ""German""",81 min
+Oldboy,"thriller, revenge","Korean, imprisonment, shocking twist",⭐⭐⭐⭐⭐,Netflix," ""Korean""",120 min
+The Intouchables,"comedy, drama","French, unlikely friendship, disability",⭐⭐⭐⭐⭐,Netflix," ""French""",112 min
+Roma,"drama, biography","Spanish/Mexican, maid’s life, 1970s Mexico City",⭐⭐⭐⭐⭐,Netflix," ""Spanish",135 min
+Bicycle Thieves,"drama, neorealism","Italian, father-son, poverty, survival",⭐⭐⭐⭐⭐,MUBI," ""Italian""",89 min
+Minari,"drama, family","Korean-American, immigrant dreams, farming struggles",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Korean""",115 min
+Poetry,"drama, slow-burn","Korean, elderly woman, poetry, crime",⭐⭐⭐⭐,MUBI," ""Korean""",129 min
+Portrait of a Lady on Fire,"romance, historical","French, forbidden love, painting",⭐⭐⭐⭐⭐,Amazon Prime Video," ""French""",122 min
+Asuran,"action, drama","Tamil, caste violence, family revenge",⭐⭐⭐⭐,Amazon Prime Video," ""Tamil""",169 min
+Jallikattu,"action, experimental","Malayalam, wild buffalo chaos, human instinct",⭐⭐⭐⭐,Amazon Prime Video," ""Malayalam""",135 min
+Charulata,"drama, classic","Bengali, loneliness, intellectual longing, Tagore",⭐⭐⭐⭐⭐,Hoichoi," ""Bengali""",119 min
+Incendies,"drama, mystery","French-Arabic, civil war, family secrets, emotional puzzle",⭐⭐⭐⭐⭐,Amazon Prime Video," ""French""",131 min
+Shoplifters,"drama, family","Japanese, chosen family, poverty, bonding",⭐⭐⭐⭐⭐,Netflix," ""Japanese""",121 min
+Memories of Murder,"thriller, crime","Korean, serial killer case, investigation, futility",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Korean""",131 min
+The Hunt,"drama, psychological","Danish, false accusation, social collapse",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Danish""",115 min
+Life Is Beautiful,"drama, comedy","Italian, Holocaust, father’s love, survival",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Italian""",116 min
+I’m No Longer Here,"drama, music","Spanish-Mexican, youth, subculture, migration",⭐⭐⭐⭐,Netflix," ""Spanish""",108 min
+The Invisible Guest,"thriller, mystery","Spanish, locked-room murder, lawyer, twist ending",⭐⭐⭐⭐,Netflix," ""Spanish""",106 min
+The Wailing,"horror, supernatural","Korean, possession, folklore, paranoia",⭐⭐⭐⭐,Amazon Prime Video," ""Korean""",156 min
+The Chaser,"thriller, crime","Korean, ex-cop vs killer, gripping cat-and-mouse",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Korean""",123 min
+Perfect Blue,"thriller, psychological","Japanese, pop idol, reality distortion",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Japanese""",82 min
+Tokyo Story,"drama, family","Japanese, generational gap, aging parents",⭐⭐⭐⭐⭐,MUBI," ""Japanese""",136 min
+All About My Mother,"drama, LGBTQ+","Spanish, motherhood, identity, loss",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Japanese""",101 min
+Nobody Knows,"drama, survival","Japanese, abandoned siblings, urban neglect",⭐⭐⭐⭐⭐,MUBI," ""Japanese""",141 min
+Leviathan,"drama, political","Russian, corruption, church, existential pain",⭐⭐⭐⭐,Amazon Prime Video," ""Russian""",142 min
+The Celebration (Festen),"drama, family","Danish, dark secrets, party gone wrong",⭐⭐⭐⭐⭐,MUBI," ""Danish""",115 min
+Son of Saul,"war, horror","Hungarian, Auschwitz, moral dilemma, single-take intensity",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Hungarian with some Yiddish",107 min
+Wadjda,"drama, feminism","Arabic (Saudi), girl's dream to own a bicycle",⭐⭐⭐⭐,Netflix," ""Arabic""",97 min
+Toni Erdmann,"comedy, drama","German, awkward father-daughter, absurd bonding",⭐⭐⭐⭐,Amazon Prime Video," ""German""",162 min
+Still Walking,"drama, family","Japanese, grief, annual rituals, subtle emotions",⭐⭐⭐⭐,MUBI," ""Japanese""",114 min
+Cold War,"romance, drama","Polish, musicians, passion across decades and borders",⭐⭐⭐⭐,Amazon Prime Video," ""Polish""",88 min
+Wild Tales,"dark comedy, anthology","Spanish-Argentinian, revenge, chaos, social rage",⭐⭐⭐⭐,Amazon Prime Video," ""Spanish""",122 min
+Pather Panchali,"drama, classic","Bengali, rural India, child’s eye, Satyajit Ray",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Bengali""",314 min
+I Want to Eat Your Pancreas,"anime, love, romance, sad","terminal illness, unlikely friendship, emotional goodbye",⭐⭐⭐⭐⭐,Netflix," ""Japanese""",111 min
+Silenced,"drama, true story, tragic","abuse case in Korean school, injustice, hard-hitting",⭐⭐⭐⭐⭐,Netflix," ""Korean""",133 min
+Ayka,"drama, immigrant, cry","single immigrant mother abandons newborn, painful realism",⭐⭐⭐⭐,MUBI," ""Turkish""",96 min
+A Sun,"drama, family, grief","Taiwanese family deals with loss, shame, and regret",⭐⭐⭐⭐⭐,Netflix," ""Mandarin""",120 min
+A Letter to Momo,"anime, grief, emotional",Japanese girl connects with spirits after father’s death,⭐⭐⭐⭐,Netflix," ""Japanese""",103 min
+Beautiful Boy,"drama, addiction, sad",father tries to help son through drug relapse cycles,⭐⭐⭐⭐,Amazon Prime Video," ""English""",120 min
+Don't Leave,"romance, Turkish, emotional","young man mysteriously breaks up with girlfriend, tragic reveal",⭐⭐⭐⭐,Netflix," ""Turkish""",67 min
+Blue,"drama, French, sad","woman loses family, goes numb, rebuilds life through music",⭐⭐⭐⭐⭐,MUBI," ""French""",79 min
+Radiator,"drama, family, grief","son returns to care for mentally ill parents, slow emotional burn",⭐⭐⭐,Amazon Prime Video," ""English""",96 min
+Shiniuma no Oshiego,"Japanese, coming-of-age, sad",orphan boy finds his way through street boxing and struggle,⭐⭐⭐,Japan Foundation Online," ""Japanese""",30 min
+Tangshan Earthquake,"disaster, family, tragedy","mother forced to choose one child after earthquake, long-term guilt",⭐⭐⭐⭐,YouTube," ""Mandarin""",95 min
+Whale Rider,"drama, Maori, emotional","young girl fights tradition to become tribal leader, powerful and sad",⭐⭐⭐⭐,Amazon Prime Video," ""Maori""",101 min
+Song of the Sea,"anime, fantasy, emotional",Irish siblings grieve their mother through magical folklore,⭐⭐⭐⭐,Netflix," ""Japanese""",94 min
+A White White Day,"drama, Icelandic, slow-burn","man grieves wife, suspects she cheated, icy melancholy",⭐⭐⭐⭐,MUBI," ""Icelandic""",128 min
+Yeh Ballet,"Indian, drama, dreams, sad","slum boys find ballet, face family rejection and systemic hardship",⭐⭐⭐⭐,Netflix," ""Hindi""",98 min
+Goodbye,"drama, Indian, grief","family deals with the loss of their mother, emotional clashes",⭐⭐⭐,Netflix," ""Hindi""",130 min
+Sonita,"documentary, feminist, cry","Afghan girl uses rap to escape forced marriage, tearjerker",⭐⭐⭐⭐,YouTube," ""Persian""",88 min
+True Mothers,"drama, adoption, secrets",Japanese couple’s adopted child’s biological mother resurfaces,⭐⭐⭐⭐,Netflix," ""Japanese""",129 min
+True North,"anime, political, tragic","Korean animation set in a North Korean prison camp, gut-wrenching",⭐⭐⭐⭐,Netflix," ""Japanese""",135 min
+Little Miss Period,"drama, Japanese, sad-comedy","girl's emotional struggle embodied as a character, unique and touching",⭐⭐⭐,Netflix," ""Japanese""",15 min per episode
+Death Note,"anime, thriller, supernatural","brilliant student gets a deadly notebook through which he can kill people, cat-and-mouse with detective",⭐⭐⭐⭐⭐,"Netflix, Crunchyroll"," ""Japanese""",100 min per episode
+Attack on Titan,"anime, action, dark fantasy",humanity fights Titans behind massive walls,⭐⭐⭐⭐⭐,"Netflix, Crunchyroll"," ""Japanese""",24 min per episode
+Your Name,"anime, romance, fantasy","body-swapping teens, fate, breathtaking visuals",⭐⭐⭐⭐⭐,Netflix," ""Japanese""",106 min
+One Punch Man,"anime, comedy, action","hero bored of winning with one punch, satire of shounen",⭐⭐⭐⭐,"Netflix, Crunchyroll"," ""Japanese""",24 min per episode
+Spirited Away,"anime, fantasy, coming-of-age","girl trapped in spirit world, Japanese, spirit world, lost identity",⭐⭐⭐⭐⭐,Netflix," ""Japanese""",125 min
+Vinland Saga,"anime, historical, action",Viking revenge saga with emotional depth,⭐⭐⭐⭐⭐,Amazon Prime Video," ""Japanese""",24 min per episode
+Jujutsu Kaisen,"anime, action, supernatural","cursed spirits, sorcerers, intense battles",⭐⭐⭐⭐,"Crunchyroll, Netflix"," ""Japanese""",24 min per episode
+Steins;Gate,"anime, sci-fi, thriller","time travel, brainy experiments, butterfly effects",⭐⭐⭐⭐⭐,Crunchyroll," ""Japanese""",24 min per episode
+Erased,"anime, mystery, drama",man travels back to prevent a childhood tragedy,⭐⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Mob Psycho 100,"anime, supernatural, action","overpowered psychic with emotions, quirky and fun",⭐⭐⭐⭐⭐,Crunchyroll," ""Japanese""",24 min per episode
+Naruto,"anime, action, adventure","ninja boy aims to be village leader, emotional arcs",⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Fullmetal Alchemist: Brotherhood,"anime, fantasy, drama","brothers use alchemy to restore their bodies, deep themes",⭐⭐⭐⭐⭐,"Netflix, Crunchyroll"," ""Japanese""",24 min per episode
+Tokyo Ghoul,"anime, horror, psychological","student turns half-ghoul, struggles with identity",⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Parasyte: The Maxim,"anime, sci-fi, body horror","alien parasite coexists in human hand, fights for survival",⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Toradora!,"anime, romantic comedy, slice of life","tsundere girl + misunderstood boy, sweet development",⭐⭐⭐⭐⭐,Crunchyroll," ""Japanese""",24 min per episode
+Demon Slayer,"anime, action, supernatural","siblings fight demons, stunning visuals",⭐⭐⭐⭐,"Netflix, Crunchyroll"," ""Japanese""",24 min per episode
+Code Geass,"anime, mecha, strategy","exiled prince gets power to command, rebellion ensues",⭐⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Made in Abyss,"anime, adventure, dark fantasy","girl descends into mysterious pit, emotional and brutal",⭐⭐⭐⭐,Amazon Prime Video," ""Japanese""",24 min per episode
+Clannad: After Story,"anime, drama, romance",slice of life turns deeply emotional and philosophical,⭐⭐⭐⭐⭐,Crunchyroll," ""Japanese""",24 min per episode
+Black Clover,"anime, action, magic","orphan dreams of becoming wizard king, despite no powers",⭐⭐⭐,"Crunchyroll, Netflix"," ""Japanese""",24 min per episode
+Akame ga Kill!,"anime, action, tragedy","young warrior joins assassins to fight corruption, brutal deaths",⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Noragami,"anime, supernatural, comedy","minor god does odd jobs for 5 yen, gods vs phantoms",⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Zankyou no Terror,"anime, thriller, mystery",two teen terrorists shake Tokyo to reveal a hidden truth,⭐⭐⭐⭐,Crunchyroll," ""Japanese""",24 min per episode
+Samurai Champloo,"anime, historical, hip-hop","samurais in Edo era with anachronistic style, cool journey",⭐⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+86,"anime, war, sci-fi","mecha warfare, discrimination, intense emotional fallout",⭐⭐⭐⭐,Crunchyroll," ""Japanese""",24 min per episode
+Beastars,"anime, psychological, furry noir",predator-prey tension in anthropomorphic society,⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Horimiya,"anime, romance, slice of life","popular girl and quiet guy connect over secrets, wholesome",⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Devilman Crybaby,"anime, horror, tragedy","demons invade society, emotional destruction follows",⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Bungou Stray Dogs,"anime, supernatural, mystery",detectives with powers based on literary figures,⭐⭐⭐⭐,Crunchyroll," ""Japanese""",24 min per episode
+The Promised Neverland (Season 1),"anime, thriller, escape",kids plan escape from a dark orphanage secret,⭐⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Dr. Stone,"anime, sci-fi, survival",teen scientist rebuilds civilization after apocalypse,⭐⭐⭐⭐,Crunchyroll," ""Japanese""",24 min per episode
+Re:Zero,"anime, fantasy, time loop","boy relives death over and over, high stakes, heartbreak",⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Barakamon,"anime, slice of life, comedy",calligrapher finds meaning in rural island life,⭐⭐⭐⭐⭐,Crunchyroll," ""Japanese""",24 min per episode
+Hyouka,"anime, mystery, slice of life","quiet student uncovers school mysteries, slow charm",⭐⭐⭐⭐,Crunchyroll," ""Japanese""",26 min per episode
+Nana,"anime, romance, music","two girls named Nana navigate love, pain, and dreams",⭐⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode
+Welcome to the NHK,"anime, psychological, dark comedy",hikikomori suspects a conspiracy ruining his life,⭐⭐⭐⭐,Crunchyroll," ""Japanese""",24 min per episode
+Bakuman,"anime, drama, career",high school duo pursue dream of becoming top manga artists,⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode  
+Orange,"anime, romance, time travel",letter from future warns girl to save her classmate from tragedy,⭐⭐⭐⭐,Netflix," ""Japanese""",24 min per episode  
+To Your Eternity,"anime, fantasy, existential",immortal entity learns life through pain and companionship,⭐⭐⭐⭐⭐,Crunchyroll," ""Japanese""",24 min per episode  
+Beasts of No Nation,"war, drama",African child soldier’s descent into violence and loss,⭐⭐⭐⭐⭐,Netflix," ""English""",138 min
+The Light Between Oceans,"romance, drama","couple finds baby at sea, guilt and grief follow",⭐⭐⭐⭐,Amazon Prime Video," ""English""",133 min
+Tuesdays with Morrie,"drama, biography","student reconnects with dying professor, heartwarming and sad",⭐⭐⭐⭐,YouTube," ""English""",89 minutes
+The Nightingale,"drama, revenge",Tasmanian woman seeks justice after horrific loss,⭐⭐⭐⭐,Amazon Prime Video," ""English""",118 min
+Nowhere in Africa,"drama, war","German family flees to Kenya during WWII, bittersweet journey",⭐⭐⭐⭐⭐,MUBI," ""German""",124 min
+Instructions Not Included,"drama, comedy","Mexican single father raises daughter, shocking twist ending",⭐⭐⭐⭐,Amazon Prime Video," ""Spanish""",122 min
+Mug,"drama, Polish","man receives face transplant after accident, struggles with identity",⭐⭐⭐,Netflix," ""Polish""",91 minutes
+The Sea Inside,"biography, Spanish","paralyzed man fights for right to die, deeply moving",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Spanish""",116 min
+The Sweet Hereafter,"drama, tragedy",town deals with the aftermath of a school bus accident,⭐⭐⭐⭐,YouTube," ""English""",110 min
+Departures,"drama, Japanese","cellist becomes mortician, explores life, death, and dignity",⭐⭐⭐⭐⭐,Netflix," ""Japanese""",130 min
+The Flowers of War,"war, drama",Chinese girls take refuge with courtesans during Nanjing Massacre,⭐⭐⭐⭐,Amazon Prime Video,"""Mandarin""",146 min
+The Third Wife,"drama, Vietnamese","14-year-old girl becomes third wife, silent rebellion builds",⭐⭐⭐⭐,MUBI," ""Vietnamese""",98 min
+Sun Children,"drama, Iranian","kids in Tehran juggle school and hard labor, heartbreaking realism",⭐⭐⭐⭐,Netflix," ""Persian""",99 min
+Jiro Dreams of Sushi,"documentary, Japanese","master sushi chef, discipline and sacrifice, quiet melancholy",⭐⭐⭐⭐,Netflix," ""Japanese""",81 min
+All Is Lost,"drama, survival","man lost at sea fights nature alone, wordless yet powerful",⭐⭐⭐⭐,Amazon Prime Video," ""English""",106 min
+The Road,"drama, post-apocalyptic","father and son journey through dying world, bleak and loving",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",111 min
+A Moment to Remember,"romance, Korean","young wife develops Alzheimer’s, heartbreaking love story",⭐⭐⭐⭐⭐,Netflix," ""Korean""",125 min (approx)
+The Broken Circle Breakdown,"romance, drama",Belgian couple’s love crumbles after child’s death,⭐⭐⭐⭐,Amazon Prime Video," ""Dutch""",108 min
+Bal (Honey),"drama, Turkish",introverted boy’s forest life shaken by father’s disappearance,⭐⭐⭐⭐,MUBI," ""Turkish""",100 min
+Las Acacias,"drama, Argentine","quiet truck journey with a woman and baby, subtle emotional weight",⭐⭐⭐⭐,MUBI," ""Spanish""",80 min (approx)
+Tamasha,"drama, romance, self-discovery","guy loses himself in societal expectations, rediscovers identity",⭐⭐⭐⭐⭐,Netflix," ""Hindi""",147 min (approx)
+Wake Up Sid,"drama, coming-of-age","spoiled rich kid finds purpose through independence and love, based in Mumbai",⭐⭐⭐⭐,Netflix," ""Hindi""",167 min (approx)
+Rockstar,"romance, music, angst","Delhi boy becomes rockstar, love and heartbreak shape him",⭐⭐⭐⭐,Netflix," ""Hindi""",152 min (approx)
+Dil Chahta Hai,"drama, friendship, travel","three friends navigate love and adulthood, iconic Goa trip",⭐⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",192 min (approx)
+Dear Zindagi,"drama, mental health, youth","cinematographer heals with help of therapist, emotional reset",⭐⭐⭐⭐,Netflix," ""Hindi""",150 min (approx)
+Queen,"drama, comedy, solo travel","ditched bride travels solo in Europe, rediscovers herself",⭐⭐⭐⭐⭐,Netflix," ""Hindi""",144 min (approx)
+Baar Baar Dekho,"romance, time travel",man sees his life unfold and learns to cherish love,⭐⭐⭐,Amazon Prime Video," ""Hindi""",143 min (approx)
+Kuch Kuch Hota Hai,"romance, college, friendship","childhood friends, love triangle, classic college vibes",⭐⭐⭐⭐,Netflix," ""Hindi""",180 min (approx)
+Kapoor & Sons,"drama, family, emotions","family reunion brings secrets, bonding, and catharsis",⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",129 min
+Jab We Met,"romantic comedy, journey",free-spirited girl changes reserved man’s life during train trip,⭐⭐⭐⭐⭐,Netflix," ""Hindi""",145 min
+Karwaan,"drama, road trip, bonding",misfit trio drives across South India with a corpse in tow,⭐⭐⭐⭐,Amazon Prime Video," ""Hindi""",133 min
+The Sky Is Pink,"biography, family, emotional",family’s journey through love and loss of a daughter,⭐⭐⭐⭐,Netflix," ""Hindi""",134 min
+Highway,"drama, romance, freedom","girl kidnapped, ends up discovering herself on the road",⭐⭐⭐⭐,Netflix," ""Hindi""",153 min
+Student of the Year,"romance, college, competition",love triangle and friendship tested in glamorous college,⭐⭐⭐,Netflix," ""Hindi""",145 min
+Udaan,"drama, youth, coming-of-age",boy rebels against abusive father to chase dreams,⭐⭐⭐⭐⭐,Netflix," ""Hindi""",123 min 
+Jee Le Zaraa (upcoming),"drama, female road trip",Farhan Akhtar’s next — spiritual successor to ZNMD,⭐⭐⭐⭐⭐,To be declared," ""Hindi""",To be declared
+Midnight Runners,"Korean, action, comedy","two goofy police cadets team up to solve a case, bromance energy",⭐⭐⭐⭐,Amazon Prime Video," ""Korean""",109 min
+Our Times,"Taiwanese, romance, nostalgia",shy schoolgirl’s crush leads to unexpected friendship and growth,⭐⭐⭐⭐,Netflix," ""Mandarin-Taiwanese""",110 min
+Anbe Sivam,"Tamil, drama, road movie",two strangers journey across India and challenge each other's worldview,⭐⭐⭐⭐⭐,Amazon Prime Video," ""Tamil""",133 min
+Little Forest,"Korean, slice of life, food",girl leaves city stress behind to cook and heal in countryside,⭐⭐⭐⭐,Netflix," ""Korean""",115 min
+Seven Years in Tibet,"English, biopic, adventure",Austrian man finds peace and purpose while in Tibet,⭐⭐⭐⭐,Amazon Prime Video," ""English, Tibetan""",136 min
+Happy Together,"Hong Kong, romance, travel",tumultuous couple travels to Argentina and finds personal clarity,⭐⭐⭐⭐,MUBI," ""Cantonese",93 min
+Ilo Ilo,"Chinese-Singaporean, drama",maid-child bond in 1997 recession sparks emotional growth,⭐⭐⭐⭐,MUBI," ""Mandarin""",107 min
+One Week,"English (Canada), road movie, cancer",man with terminal illness motorcycles across Canada to find meaning,⭐⭐⭐⭐,YouTube," ""English""",94 min
+Call Me by Your Name,"Italian-English, romance, summer love",teen boy's romantic awakening in dreamy 1980s Italy,⭐⭐⭐⭐⭐,Amazon Prime Video," ""English",132 min
+Your Name Engraved Herein,"Taiwanese, LGBTQ+, youth",schoolboys fall in love in post-martial law Taiwan,⭐⭐⭐⭐,Netflix," ""Mandarin""",99 min
+Into the Wild,"English, adventure, philosophy","man leaves society behind to live in wilderness, soul-searching",⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",148 min
+20th Century Girl,"Korean, teen, friendship","heartfelt tale of youth, love, and best friends in the late '90s",⭐⭐⭐⭐,Netflix," ""Korean""",119 min
+Mumbai Xpress,"Tamil, road comedy",mistaken identities and chaos during a kidnapping gone wrong,⭐⭐⭐,YouTube," ""Tamil""",98 min
+Eat Pray Love,"English, travel, soul-searching","woman travels across Italy, India, and Bali to rediscover herself",⭐⭐⭐,Netflix," ""English""",133 min
+Us and Them,"Chinese, romance, regret",two lovers reconnect on a train years after their relationship ended,⭐⭐⭐⭐,Netflix," ""Chinese""",126 min
+Barfi! (Bengali dubbed),"romance, humor, emotion",deaf-mute boy navigates love and loss with charm and heart,⭐⭐⭐⭐⭐,Netflix," ""Bengali""",125 min
+Maryan,"Tamil, survival, romance",deep love story set against working-class backdrop and African landscapes,⭐⭐⭐⭐,Disney+ Hotstar," ""Tamil""",153 min
+Shaun of the Dead,"comedy, horror, British",zombie outbreak tackled with dry humor and cricket bats,⭐⭐⭐⭐⭐,Amazon Prime Video," ""English""",99 min
+Beetlejuice,"comedy, fantasy, supernatural","eccentric ghost haunts new tenants, weirdly hilarious",⭐⭐⭐⭐,Amazon Prime Video," ""English""",105 min
+The Cabin in the Woods,"horror, meta, sci-fi",college kids trapped in orchestrated nightmare,⭐⭐⭐⭐,Amazon Prime Video," ""English""",95 min
+Scary Movie (Series),"parody, horror, slapstick","spoofs on horror clichés, chaotic and silly",⭐⭐⭐,Netflix," ""English""",90 min
+Tucker and Dale vs. Evil,"comedy, horror, mistaken identity","two hillbillies mistaken for killers, gory laughs",⭐⭐⭐⭐,Amazon Prime Video," ""English""",89 min
+Ghostbusters (1984 & 2016),"comedy, paranormal, classic",ghost-hunting squad busts spirits in New York,⭐⭐⭐⭐,Netflix," ""English""",110 min
+Warm Bodies,"romance, horror, comedy","zombie falls in love, gains humanity",⭐⭐⭐⭐,Amazon Prime Video," ""English""",98 min
+Deadstream,"horror, comedy, found footage",streamer’s haunted house vlog goes viral and deadly,⭐⭐⭐⭐,Shudder," ""English""",90 min
+What We Do in the Shadows,"comedy, horror, mockumentary",vampires as quirky roommates in New Zealand,⭐⭐⭐⭐⭐,Disney+ Hotstar," ""English""",86 min
+Happy Death Day,"horror, comedy, time-loop",college girl relives murder day over and over,⭐⭐⭐⭐,Amazon Prime Video," ""English""",96 min
+Stree,"horror, comedy, satire","feminist ghost haunts men, small-town chaos",⭐⭐⭐⭐,"JioCinema, Netflix"," ""Hindi""",120 min
+Bhoot Police,"horror, comedy",fake ghostbusters encounter real spirits,⭐⭐⭐,Disney+ Hotstar," ""Hindi""",133 min
+Roohi,"horror, comedy, absurd",woman possessed by a ghost who wants marriage,⭐⭐⭐,JioCinema," ""Hindi""",121 min
+Bhool Bhulaiyaa (1 & 2),"horror, psychological, comedy",mix of psychology and spirits,⭐⭐⭐⭐,Netflix," ""Hindi""",150 min
+Munafik 2,"horror, supernatural, religious",Islamic horror with a strong moral message,⭐⭐⭐,Netflix," ""Malay""",130 min
+Kanchana,"horror, comedy, social message",ghost of a trans woman seeks justice through possession,⭐⭐⭐⭐,Sun NXT," ""Tamil""",160 min
+Muni,"horror, comedy, revenge",humorous ghost possession with local flavor,⭐⭐⭐,YouTube," ""Tamil""",150 min
+Zombie Reddy,"action, horror, comedy",COVID-zombie apocalypse meets Telugu politics,⭐⭐⭐,ZEE5," ""Telugu""",125 min
+Ghudchadi (upcoming),"rom-com, horror"," quirky love story involving two couples across generations, wedding ghost chaos, starring Sanjay Dutt",TO BE ANNOUNCED,TO BE ANNOUNCED,"""Hindi""",TO BE ANNOUNCED
+Pretham,"horror, comedy, psychic",sarcastic psychic handles a spooky hostel case,⭐⭐⭐⭐,Sun NXT," ""Malay""",118 min
+Raise the Red Lantern," ""psychological drama"," historical""","tradition vs. personal freedom,  quiet rebellion,  female agency under patriarchal systems","free unofficial sites  (M4uHD, KissAsian, SFlix)","""Mandarin""",125 min
+Burnt by the Sun," ""historical drama"," political tragedy""","Stalinism, betrayal, innocence destroyed","Netflix, Amazon Prime, Apple TV","""Russian""",135 minutes
+The Great Beauty," ""drama"""," ""celebration vs. critique of decadence","spiritual emptiness, aging, lost love","Netflix, HULU, Amazon Prime, Apple TV","""Italian""",173 minutes
