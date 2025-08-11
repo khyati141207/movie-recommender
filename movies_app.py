@@ -8,7 +8,7 @@ df = pd.read_csv("movies.csv")
 df.columns = [col.strip().lower() for col in df.columns]
 df.rename(columns={
     'small description': 'description',
-    'platforms on which it is available': 'available on:'
+    'platforms on which it is available': 'available on'
 }, inplace=True)
 
 # Website title
@@ -23,7 +23,6 @@ matches = pd.DataFrame()  # empty by default
 
 
 # when user types something, choosing the right movies
-[
 if user_input1 and user_input2:
     user_input1 = user_input1.lower()
     user_input2 = user_input2.lower()
@@ -47,7 +46,6 @@ if user_input1 and user_input3:
     matches = df[
     (df['genre'].str.lower().str.contains(user_input1) | df['description'].str.lower().str.contains(user_input1)) &
     (df['genre'].str.lower().str.contains(user_input3) | df['description'].str.lower().str.contains(user_input3) | df['language'].str.lower().str.contains(user_input3))
-]
 ]
 
 elif user_input1:
