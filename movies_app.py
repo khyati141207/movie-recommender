@@ -26,6 +26,7 @@ matches = pd.DataFrame()  # empty by default
 if user_input1 and user_input2:
     user_input1 = user_input1.lower()
     user_input2 = user_input2.lower()
+    user_input3 = user_input3.lower()
     
     matches = df[
         (df['genre'].str.lower().str.contains(user_input1) | df['description'].str.lower().str.contains(user_input1)) &
