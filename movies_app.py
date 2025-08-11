@@ -47,11 +47,11 @@ elif user_input2:
         df['description'].str.lower().str.contains(user_input2)
     ]
  elif user_input3:
-      user_input3 = user_input3.lower()
-      matches = df[
-            df['language'].str.lower().str.contains(user_input3) |
-            df['genre'].str.lower().str.contains(user_input3) |
-            df['description'].str.lower().str.contains(user_input3)
+    user_input3 = user_input3.lower()
+    matches = df[
+        df['language'].str.lower().str.contains(user_input3) |
+        df['genre'].str.lower().str.contains(user_input3) |
+        df['description'].str.lower().str.contains(user_input3)
         ]
 
 # Printing results
@@ -65,6 +65,7 @@ if not matches.empty:
             f"*Rating:* {row['rating']}  \n"
             f"*Available on:* {row['available on:']}  \n"
             f"*Language:* {row['language']}   \n"
+            f"*Run time:* {row['duration']}   \n"
             "---"
         )
 else:
