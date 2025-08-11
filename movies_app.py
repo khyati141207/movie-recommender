@@ -13,17 +13,20 @@ df.rename(columns={
 
 # Website title
 st.title("🎬 Movie Recommender")
-st.write("Tell me what your mood/preference and I'll suggest something!\nPS: Website had updated data till July 2025")
+st.write(
+    "Tell me what your mood/preference and I'll suggest something!  \n
+    "PS: Website has been updated data till July 2025"
+)
 
 # Input boxes
 user_input1 = st.text_input("keyword 1", "")
 user_input2 = st.text_input("keyword 2", "")
-user_input3 = st.text_input("language","")
+user_input3 = st.text_input("language", "")
 matches = pd.DataFrame()  # empty by default
 
 
 # when user types something, choosing the right movies
-if user_input1 and user_input2:
+if user_input1 and user_input2 and user_input3:
     user_input1 = user_input1.lower()
     user_input2 = user_input2.lower()
     user_input3 = user_input3.lower()
