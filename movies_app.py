@@ -47,7 +47,7 @@ elif user_input2:
         df['genre'].str.lower().str.contains(user_input2) |
         df['description'].str.lower().str.contains(user_input2)
     ]
- elif user_input3:
+elif user_input3:
     user_input3 = user_input3.lower()
     matches = df[
         df['language'].str.lower().str.contains(user_input3) |
