@@ -68,7 +68,7 @@ if not matches.empty:
             f"*Genre:* {row['genre']}  \n"
             f"*Description:* _{row['description']}_  \n"
             f"*Rating:* {row['rating']}  \n"
-            f"*Available on:* {row['available on:']}  \n"
+            f"*Available on:* {row['available on']}  \n"
             f"*Language:* {row['language']}   \n"
             f"*Run time:* {row['duration']}   \n"
             "---"
