@@ -1,4 +1,4 @@
-import pandas as pd
+"import pandas as pd
 import streamlit as st
 
 # Load movie data
@@ -14,7 +14,7 @@ df.rename(columns={
 # Website title
 st.title("🎬 Movie Recommender")
 st.write(
-    "Tell me what your mood/preference and I'll suggest something!  \n
+    "Tell me what your mood/preference and I'll suggest something!  \n" +
     "PS: Website has been updated data till July 2025"
 )
 
