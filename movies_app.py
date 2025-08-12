@@ -30,6 +30,7 @@ if user_input1 and user_input2:
     (df['genre'].str.lower().str.contains(user_input1) | df['description'].str.lower().str.contains(user_input1)) &
     (df['genre'].str.lower().str.contains(user_input2) | df['description'].str.lower().str.contains(user_input2))
 ]
+
 if user_input2 and user_input3:
     user_input2 = user_input2.lower()
     user_input3 = user_input3.lower()
@@ -38,6 +39,7 @@ if user_input2 and user_input3:
     (df['genre'].str.lower().str.contains(user_input2) | df['description'].str.lower().str.contains(user_input2)) &
     (df['genre'].str.lower().str.contains(user_input3) | df['description'].str.lower().str.contains(user_input3) | df['language'].str.lower().str.contains(user_input3))
 ]
+
 if user_input1 and user_input3:
     user_input1 = user_input1.lower()
     user_input3 = user_input3.lower()
