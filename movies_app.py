@@ -8,6 +8,13 @@ df = pd.read_csv("movies.csv")
 st.title("🎬 Movie Recommender")
 st.write("Tell me what your mood/preference and I'll suggest something!\nPS:Website had updated data till July 2025")
 
+# Rename columns for consistency if needed
+df.columns = [col.strip().lower() for col in df.columns]
+df.rename(columns={
+    'small description': 'description',
+    'platforms on which it is available': 'available on'
+}, inplace=True)
+
 # Input boxes
 user_input1 = st.text_input("keyword 1", "")
 user_input2 = st.text_input("keyword 2", "")
