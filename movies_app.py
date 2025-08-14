@@ -19,6 +19,7 @@ df.rename(columns={
 user_input1 = st.text_input("keyword 1", "")
 user_input2 = st.text_input("keyword 2", "")
 user_input3 = st.text_input("language", "")
+enter_button = st.button("🔎 Search")
 matches = pd.DataFrame()  # empty by default
 
 # when user types something, choosing the right movies
