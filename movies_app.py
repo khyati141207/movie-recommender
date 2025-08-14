@@ -39,11 +39,11 @@ elif user_input1:
     ]
 
 elif user_input2:
-    user_input3 = user_input3.lower()
+    user_input2 = user_input2.lower()
     matches = df[
-        df['language'].str.lower().str.contains(user_input3) |
-        df['genre'].str.lower().str.contains(user_input3) |
-        df['description'].str.lower().str.contains(user_input3)
+        df['language'].str.lower().str.contains(user_input2) |
+        df['genre'].str.lower().str.contains(user_input2) |
+        df['description'].str.lower().str.contains(user_input2)
         ]
 
 # Printing results
