@@ -16,9 +16,8 @@ df.rename(columns={
 }, inplace=True)
 
 # Input boxes
-user_input1 = st.text_input("keyword 1", "")
-user_input2 = st.text_input("keyword 2", "")
-user_input3 = st.text_input("language", "")
+user_input1 = st.text_input("genre", "")
+user_input2 = st.text_input("language", "")
 enter_button = st.button("🔎 Search")
 matches = pd.DataFrame()  # empty by default
 
@@ -29,25 +28,7 @@ if user_input1 and user_input2:
     
     matches = df[
     (df['genre'].str.lower().str.contains(user_input1) | df['description'].str.lower().str.contains(user_input1)) &
-    (df['genre'].str.lower().str.contains(user_input2) | df['description'].str.lower().str.contains(user_input2))
-]
-
-if user_input2 and user_input3:
-    user_input2 = user_input2.lower()
-    user_input3 = user_input3.lower()
-    
-    matches = df[
-    (df['genre'].str.lower().str.contains(user_input2) | df['description'].str.lower().str.contains(user_input2)) &
-    (df['genre'].str.lower().str.contains(user_input3) | df['description'].str.lower().str.contains(user_input3) | df['language'].str.lower().str.contains(user_input3))
-]
-
-if user_input1 and user_input3:
-    user_input1 = user_input1.lower()
-    user_input3 = user_input3.lower()
-    
-    matches = df[
-    (df['genre'].str.lower().str.contains(user_input1) | df['description'].str.lower().str.contains(user_input1)) &
-    (df['genre'].str.lower().str.contains(user_input3) | df['description'].str.lower().str.contains(user_input3) | df['language'].str.lower().str.contains(user_input3))
+    (df['genre'].str.lower().str.contains(user_input2) | df['description'].str.lower().str.contains(user_input2) | df['language'].str.lower().str.contains(user_input2))
 ]
 
 elif user_input1:
@@ -58,12 +39,6 @@ elif user_input1:
     ]
 
 elif user_input2:
-    user_input2 = user_input2.lower()
-    matches = df[
-        df['genre'].str.lower().str.contains(user_input2) |
-        df['description'].str.lower().str.contains(user_input2)
-    ]
-elif user_input3:
     user_input3 = user_input3.lower()
     matches = df[
         df['language'].str.lower().str.contains(user_input3) |
